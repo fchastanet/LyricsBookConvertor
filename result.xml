@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
+        <w:body>
+            <w:p w:rsidR="0096726D" w:rsidRPr="000E155F" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="TitreChanson" />
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+                <w:bookmarkStart w:id="0" w:name="_Toc299196721" />
+                <w:bookmarkStart w:id="1" w:name="_Toc431417961" />
+                <w:r w:rsidRPr="000E155F">
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                    <w:t>21 Guns</w:t>
+                </w:r>
+                <w:bookmarkEnd w:id="0" />
+                <w:bookmarkEnd w:id="1" /></w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="000E155F" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="AuteurGroupe" />
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="000E155F">
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                    <w:t>Green Day</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="000E155F" w:rsidRDefault="00A17807" w:rsidP="00D21E8C">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:fldChar w:fldCharType="begin" /></w:r>
+                <w:r w:rsidRPr="00D21E8C">
+                    <w:instrText xml:space="preserve"> XE \f titre "21 Guns" </w:instrText>
+                </w:r>
+                <w:r>
+                    <w:fldChar w:fldCharType="end" /></w:r>
+                <w:r>
+                    <w:fldChar w:fldCharType="begin" /></w:r>
+                <w:r w:rsidRPr="00D21E8C">
+                    <w:instrText xml:space="preserve"> XE \f LANGUE "Anglophone:Green Day:21 Guns" </w:instrText>
+                </w:r>
+                <w:r>
+                    <w:fldChar w:fldCharType="end" /></w:r>
+                <w:r>
+                    <w:fldChar w:fldCharType="begin" /></w:r>
+                <w:r w:rsidRPr="00D21E8C">
+                    <w:instrText xml:space="preserve"> XE \f groupe "Green Day:21 Guns" </w:instrText>
+                </w:r>
+                <w:r>
+                    <w:fldChar w:fldCharType="end" /></w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="000E155F" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:rPr>
+                        <w:b/>
+                        <w:i/>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00840E11">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Arial" w:hAnsi="Arial" w:cs="Arial" />
+                        <w:b/>
+                        <w:i/>
+                        <w:color w:val="000000" />
+                        <w:sz w:val="36" />
+                        <w:szCs w:val="20" />
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                    <w:t>(Sur le même ton)</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Do you know what's worth fighting for?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>When it's not worth dying for?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Does it take your breath away</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>And you feel yourself suffocating?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Does the pain weigh out the pride?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>And you look for a place to hide?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Did someone break your heart inside?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>You're in ruins</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D" />
+            <w:p w:rsidR="0096726D" w:rsidRPr="000E155F" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="000E155F">
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                    <w:t>Refrain :</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>One, 21 guns</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>Lay down your arms, give up the fight</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>One, 21 guns</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>Throw up your arms into the sky</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="00840E11" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00840E11">
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                    <w:t>you and I</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="00840E11" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="00840E11" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00840E11">
+                    <w:rPr>
+                        <w:b/>
+                        <w:i/>
+                        <w:lang w:val="fr-FR" /></w:rPr>
+                    <w:t>(Sur le même ton)</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>When you're at the end of the road</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>And you lost all sense of control</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>And your thoughts have taken their toll</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>When your mind breaks the spirit of your soul</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Your faith walks on broken glass</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>And the hangover doesn't pass</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="009C6D6C" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:b/>
+                        <w:i/></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="009C6D6C">
+                    <w:rPr>
+                        <w:b/>
+                        <w:i/></w:rPr>
+                    <w:t>(Plus aigu)</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Nothing's ever built to last</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>You're in ruins</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r w:rsidRPr="000E155F">
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                    <w:t>(Repeat Refrain)</w:t>
+                </w:r>
+                <w:r w:rsidRPr="000E155F">
+                    <w:t xml:space="preserve">, </w:t>
+                </w:r>
+                <w:r>
+                    <w:t>you and I</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="009C6D6C" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="009C6D6C">
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                    <w:t>Pont:</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:lastRenderedPageBreak/>
+                    <w:t>Did you try to live on your own</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>When you burned down the house and home?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>Did you stand too close to the fire</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:ind w:left="708" /></w:pPr>
+                <w:r>
+                    <w:t>Like a liar looking for forgiveness from a stone?</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>When it's time to live and let die</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>And you can't get another try</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="009C6D6C" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:b/>
+                        <w:i/></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="009C6D6C">
+                    <w:rPr>
+                        <w:b/>
+                        <w:i/></w:rPr>
+                    <w:t>(Plus aigu)</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>Something inside this heart has died</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r>
+                    <w:t>You're in ruins</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRPr="000E155F" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" />
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="000E155F">
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                    <w:t>(Repeat Refrain)</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="0096726D" w:rsidRDefault="0096726D" w:rsidP="0096726D">
+                <w:pPr>
+                    <w:pStyle w:val="Paroles" /></w:pPr>
+                <w:r w:rsidRPr="000E155F">
+                    <w:rPr>
+                        <w:b/></w:rPr>
+                    <w:t>(Repeat Refrain)</w:t>
+                </w:r>
+                <w:r w:rsidRPr="000E155F">
+                    <w:t xml:space="preserve">, </w:t>
+                </w:r>
+                <w:r>
+                    <w:t>you and I</w:t>
+                </w:r>
+                <w:bookmarkStart w:id="2" w:name="_GoBack" />
+                <w:bookmarkEnd w:id="2" /></w:p>
+            <w:sectPr w:rsidR="0096726D" w:rsidSect="006F40CC">
+                <w:type w:val="continuous" />
+                <w:pgSz w:w="11906" w:h="16838" w:code="9" />
+                <w:pgMar w:top="567" w:right="567" w:bottom="714" w:left="567" w:header="709" w:footer="709" w:gutter="0" />
+                <w:cols w:space="708" />
+                <w:titlePg/>
+                <w:docGrid w:linePitch="360" /></w:sectPr>
+        </w:body>
+    </w:document>

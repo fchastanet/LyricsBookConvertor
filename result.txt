@@ -1,0 +1,2 @@
+
+Parse error: syntax error, unexpected 'echo' (T_ECHO) in D:\LyricsReader\LyricsBookConvertor\src\LyricsBookConvertor\Reader.php on line 39
