@@ -1,4 +1,6 @@
 <?php
+include 'src/functions.php';
+
 $STDERR = fopen('php://stderr', 'w+');
 function print2stderr($msg) {
 	global $STDERR;
@@ -24,4 +26,5 @@ error_reporting(E_ALL);
 use LyricsBookConvertor\Reader;
 
 $reader = new Reader();
-$reader->parse($fileName);
+$nodes = $reader->parse($fileName);
+echo json_encode($nodes);
